@@ -30,3 +30,7 @@ $ npm --version
 * The browser displays current time in a way similar to
 
 >> {"unixtime":1376136615474}
+
+<br/>
+-----
+Mode details in [Goodle Slides](www.slide.com)
