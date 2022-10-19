@@ -1,4 +1,4 @@
-:-----d-----:Project
+:Project:
 ======
 HTTP JSON API + Node.js + Time Server + Parsing Time
 --------
