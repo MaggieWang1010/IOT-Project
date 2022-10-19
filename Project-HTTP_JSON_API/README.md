@@ -1,7 +1,5 @@
-Project
+Project------>HTTP JSON API + Node.js + Time Server + Parsing Time
 ======
-HTTP JSON API + Node.js + Time Server + Parsing Time
---------
 ## Step 1: Install Node.js on Ubuntu
 ## Step 2: Study Time Server and try to display current time in ISO format.
 ## Step 3: Study JSON
