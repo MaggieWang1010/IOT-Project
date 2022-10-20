@@ -15,6 +15,7 @@ $ npm --version
 ## Step 3: Study JSON
 ## Step 4: Study HTTP JSON API Server
 ## Step 5: Modify HTTP JSON API Server to support these requests from the client side
+
 * Parse Current Time
 
 >> http://localhost:8000/api/parse_currenttme
@@ -31,6 +32,5 @@ $ npm --version
 
 >> {"unixtime":1376136615474}
 
-<br/>
------
-Mode details in [Goodle Slides](www.slide.com)
+###
+Mode details in [Slides](https://docs.google.com/presentation/d/1GXfRdK0zRuHOAz-_yRlTmTiZYeKkilCv7neOqCp0rZI/edit?usp=sharing)
